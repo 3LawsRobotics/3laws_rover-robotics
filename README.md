@@ -9,7 +9,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/3LawsRobotics/3laws-public/m
 
 ### Robot diagnostic module update:
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/3LawsRobotics/3laws-public/master/rdm/update.sh) <PACKAGE|DOCKER> rover-robotics
+bash <(curl -fsSL https://raw.githubusercontent.com/3LawsRobotics/3laws-public/master/rdm/update.sh) rover-robotics
 ```
 
 ### Robot diagnostic module uninstall:
