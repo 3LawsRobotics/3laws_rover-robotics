@@ -1,5 +1,5 @@
 ## Base image
-ARG BASE_ARCH=amd64
+ARG BASE_ARCH=arm64v8
 FROM $BASE_ARCH/ros:foxy-ros-core
 
 ARG DEBIAN_FRONTEND=noninteractive
